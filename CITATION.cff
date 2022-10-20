@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Barrett"
+  given-names: "Brendan J"
+  orcid: "https://orcid.org/0000-0002-2725-2385"
+- family-names: "Perry"
+  given-names: "Susan E"
+  orcid: "https://orcid.org/0000-0001-5306-5383"
+- family-names: "Godoy"
+  given-names: "Irene"
+  orcid: "https://orcid.org/0000-0003-4405-226X"
+
+title: "Data and Code for Perry et al. Older, sociable white-faced capuchins (Cebus capucinus) invent more social behaviors; younger monkeys innovate more in other contexts"
+version: 1.0.0
+date-released: 2017-04-21
+url: "https://github.com/bjbarrett/cebusinnovation2017"
